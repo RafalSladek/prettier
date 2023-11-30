@@ -17,7 +17,7 @@
     "esutils": "2.0.2",
     "flow-parser": "0.43.0",
     "get-stdin": "5.0.1",
-    "glob": "7.1.1",
+    "glob": "9.0.0",
     "jest-validate": "19.0.0",
     "minimist": "1.2.0"
   },
